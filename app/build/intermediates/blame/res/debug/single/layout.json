@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/martin/frozenbubbleandroid2/app/build/intermediates/res/merged/debug/layout/activity_scrolling_credits.xml",
+        "source": "/home/martin/frozenbubbleandroid2/app/src/main/res/layout/activity_scrolling_credits.xml"
+    },
+    {
+        "merged": "/home/martin/frozenbubbleandroid2/app/build/intermediates/res/merged/debug/layout/activity_frozen_bubble.xml",
+        "source": "/home/martin/frozenbubbleandroid2/app/src/main/res/layout/activity_frozen_bubble.xml"
+    },
+    {
+        "merged": "/home/martin/frozenbubbleandroid2/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/martin/frozenbubbleandroid2/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/martin/frozenbubbleandroid2/app/build/intermediates/res/merged/debug/layout/seek_bar_preference.xml",
+        "source": "/home/martin/frozenbubbleandroid2/app/src/main/res/layout/seek_bar_preference.xml"
+    },
+    {
+        "merged": "/home/martin/frozenbubbleandroid2/app/build/intermediates/res/merged/debug/layout/activity_preferences_screen.xml",
+        "source": "/home/martin/frozenbubbleandroid2/app/src/main/res/layout/activity_preferences_screen.xml"
+    }
+]
